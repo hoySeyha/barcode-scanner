@@ -213,6 +213,13 @@
     "@babel/helper-validator-identifier" "^7.22.5"
     to-fast-properties "^2.0.0"
 
+"@createnextapp/react-barcode@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@createnextapp/react-barcode/-/react-barcode-1.1.1.tgz#2427669812e8fbe64173667460762d331f2263e4"
+  integrity sha512-W0zoKCnkNGCMpDgzczFKpUPGXGvg4IMB4dm/gOT9q5ZexdjDg0fFcLNWJtqwgk+FWc6JurDZyQt9rDlyI54EpQ==
+  dependencies:
+    jsbarcode "^3.11.0"
+
 "@esbuild/android-arm64@0.18.20":
   version "0.18.20"
   resolved "https://registry.yarnpkg.com/@esbuild/android-arm64/-/android-arm64-0.18.20.tgz#984b4f9c8d0377443cc2dfcef266d02244593622"
@@ -1102,6 +1109,11 @@ js-yaml@^4.1.0:
   integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
   dependencies:
     argparse "^2.0.1"
+
+jsbarcode@^3.11.0:
+  version "3.11.5"
+  resolved "https://registry.yarnpkg.com/jsbarcode/-/jsbarcode-3.11.5.tgz#390b3efd0271f35b9d68c7b8af6e972445969014"
+  integrity sha512-zv3KsH51zD00I/LrFzFSM6dst7rDn0vIMzaiZFL7qusTjPZiPtxg3zxetp0RR7obmjTw4f6NyGgbdkBCgZUIrA==
 
 jsesc@^2.5.1:
   version "2.5.2"
